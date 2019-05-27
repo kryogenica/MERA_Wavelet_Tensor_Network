@@ -1,4 +1,4 @@
-# MERA_Wavelet_Tensor_Network
+# MERA Wavelet Tensor Network
 
 
 This Colab notebook intends to convert into Python coding the following paper "Representation and design of wavelets using unitary circuits" into Python code.
